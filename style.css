@@ -1,0 +1,24 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+.heading{
+display:flex;
+justify-content: center;}
+
+
+
+.clock{
+display:flex;
+justify-content: center;}
+
+
+.picture{
+display:flex;
+justify-content: center;}
+
+body{
+background-color: rgba(50,115,220,0.3);
+}
